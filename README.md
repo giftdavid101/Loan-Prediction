@@ -1,6 +1,7 @@
 # Loan-Prediction
+Goal
 
-Goal: 
-..........To simplify the decision making process and  build a 
-..........sound model for predicting  credit scores.
+
+          Simplify decision making process and  build a 
+          sound model for predicting  credit scores.
 
